@@ -6,3 +6,4 @@ Binary Search
 2. Sorted Insert Position - https://www.scaler.com/academy/mentee-dashboard/class/30364/assignment/problems/204/?navref=cl_pb_nv_tb
 3. Find a peak element - https://www.scaler.com/academy/mentee-dashboard/class/30364/assignment/problems/4132/?navref=cl_pb_nv_tb
 4. Median of Array - https://www.scaler.com/academy/mentee-dashboard/class/30364/homework/problems/198/?navref=cl_pb_nv_tb
+5. Just greater number
