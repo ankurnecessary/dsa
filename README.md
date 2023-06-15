@@ -12,3 +12,5 @@ Binary Search 1
 Binary Search 2
 1. Square root of Integer - https://www.scaler.com/academy/mentee-dashboard/class/30365/assignment/problems/200/?navref=cl_pb_nv_tb
 2. Square root of N upto 3 decimal places
+3. Aggressive cows via linear search
+4. Aggressive cows via binary search
