@@ -14,3 +14,6 @@ Binary Search 2
 2. Square root of N upto 3 decimal places
 3. Aggressive cows via linear search
 4. Aggressive cows via binary search
+
+Notes
+1. Finding GCD or HCF - https://www.scaler.com/academy/mentee-dashboard/class/28735/session
