@@ -17,3 +17,4 @@ Binary Search 2
 
 Notes
 1. Finding GCD or HCF - https://www.scaler.com/academy/mentee-dashboard/class/28735/session
+2. Finding LCM - https://www.scaler.com/academy/mentee-dashboard/class/28735/session
