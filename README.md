@@ -14,7 +14,9 @@ Binary Search 2
 2. Square root of N upto 3 decimal places
 3. Aggressive cows via linear search
 4. Aggressive cows via binary search
+5. Ath magical number - https://www.scaler.com/academy/mentee-dashboard/class/30365/assignment/problems/5697?navref=cl_tt_lst_nm
 
 Notes
 1. Finding GCD or HCF - https://www.scaler.com/academy/mentee-dashboard/class/28735/session
 2. Finding LCM - https://www.scaler.com/academy/mentee-dashboard/class/28735/session
+3. Javascript Exponentiation (**) - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Exponentiation
