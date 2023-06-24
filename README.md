@@ -8,6 +8,7 @@ Binary Search 1
 4. Median of Array - https://www.scaler.com/academy/mentee-dashboard/class/30364/homework/problems/198/?navref=cl_pb_nv_tb
 5. Just greater number
 6. Matrix median - https://www.scaler.com/academy/mentee-dashboard/class/30364/homework/problems/357?navref=cl_tt_lst_sl
+7. Rotated Sorted Array Search 2 - https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/ IMPORTANT
 
 Binary Search 2
 1. Square root of Integer - https://www.scaler.com/academy/mentee-dashboard/class/30365/assignment/problems/200/?navref=cl_pb_nv_tb
