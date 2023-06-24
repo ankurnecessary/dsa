@@ -14,7 +14,9 @@ Binary Search 2
 2. Square root of N upto 3 decimal places
 3. Aggressive cows via linear search
 4. Aggressive cows via binary search
-5. Ath magical number - https://www.scaler.com/academy/mentee-dashboard/class/30365/assignment/problems/5697?navref=cl_tt_lst_nm
+5. Ath magical number (Linear Search) - https://www.scaler.com/academy/mentee-dashboard/class/30365/assignment/problems/5697?navref=cl_tt_lst_nm
+6. Ath magical number (Binary Search) - https://www.scaler.com/academy/mentee-dashboard/class/30365/assignment/problems/5697?navref=cl_tt_lst_nm
+7. Kth Smallest price - https://www.scaler.com/academy/mentee-dashboard/class/30365/homework/problems/872?navref=cl_tt_nv IMPORTANT
 
 Notes
 1. Finding GCD or HCF - https://www.scaler.com/academy/mentee-dashboard/class/28735/session
