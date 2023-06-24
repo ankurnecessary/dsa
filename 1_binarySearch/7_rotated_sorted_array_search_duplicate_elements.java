@@ -33,7 +33,7 @@ This problem is similar to Search in Rotated Sorted Array, but nums may contain 
 
 Time Complexity: O(logN) for the best and average case. O(N/2) for the worst case. Here, N = size of the given array.
 
-Reason: In the best and average scenarios, the binary search algorithm is primarily utilized and hence the time complexity is O(logN). However, in the worst-case scenario, where all array elements are the same but not the target (e.g., given array = {3, 3, 3, 3, 3, 3, 3}), we continue to reduce the search space by adjusting the low and high pointers until they intersect. This worst-case situation incurs a time complexity of O(N/2).
+Reason: In the best and average scenarios, the binary search algorithm is primarily utilized and hence the time complexity is O(logN). However, in the worst-case scenario, where all array elements are the same but not the target (e.g., given array = {3, 3, 3, 3, 1, 3, 3}, target = 1), we continue to reduce the search space by adjusting the low and high pointers until they intersect. This worst-case situation incurs a time complexity of O(N/2).
 
 Space Complexity: O(1)
 
@@ -53,6 +53,9 @@ class Solution {
       if (nums[mid] == target) {
         return true;
       } else if (nums[min] == nums[mid] && nums[mid] == nums[max]) {
+        /*
+        However, in the worst-case scenario, where all array elements are the same but not the target (e.g., given array = {3, 3, 3, 3, 1, 3, 3}, target = 1), we continue to reduce the search space by adjusting the low and high pointers until they intersect. This worst-case situation incurs a time complexity of O(N/2).
+         */
         min++;
         max--;
       } else if (nums[min] <= nums[mid]) {
