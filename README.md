@@ -10,6 +10,7 @@ Binary Search 1
 6. Matrix median - https://www.scaler.com/academy/mentee-dashboard/class/30364/homework/problems/357?navref=cl_tt_lst_sl
 7. Rotated Sorted Array Search with duplicate elements - https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/ IMPORTANT
 8. Find minimum in Rotated Sorted Array with duplicate elements - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/?envType=list&envId=raau48es IMPORTANT
+9. Single Element in a Sorted Array - https://leetcode.com/problems/single-element-in-a-sorted-array/description/
 
 Binary Search 2
 1. Square root of Integer - https://www.scaler.com/academy/mentee-dashboard/class/30365/assignment/problems/200/?navref=cl_pb_nv_tb
