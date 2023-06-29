@@ -53,6 +53,10 @@ module.exports = {
             return A[0];
         }
 
+        // It is a smart way of checking if the peak element lies at first or last index or not
+        if (A[0] > A[1]) return A[0];
+        if (A[n - 1] >= A[n - 2]) return A[n - 1];
+
         let start = 0;
         let end = n - 1;
 
@@ -60,13 +64,7 @@ module.exports = {
 
             let mid = Math.floor(start + ((end - start) / 2));
 
-            if (mid === 0 && A[mid] > A[mid + 1]) {
-                return A[mid];
-            }
-            else if (mid === n - 1 && A[mid] >= A[mid - 1]) {
-                return A[mid];
-            }
-            else if (A[mid] > A[mid + 1] && A[mid] > A[mid - 1]) {
+            if (A[mid] > A[mid + 1] && A[mid] > A[mid - 1]) {
                 return A[mid];
             }
             else if (mid - 1 >= 0 && A[mid] < A[mid - 1]) {
