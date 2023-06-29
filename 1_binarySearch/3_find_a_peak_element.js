@@ -57,8 +57,8 @@ module.exports = {
         if (A[0] > A[1]) return A[0];
         if (A[n - 1] >= A[n - 2]) return A[n - 1];
 
-        let start = 0;
-        let end = n - 1;
+        let start = 1;
+        let end = n - 2;
 
         while (start <= end) {
 
