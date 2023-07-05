@@ -1,7 +1,6 @@
-# dsa
-DSA practice
+# DSA
 
-Binary Search 1
+## Binary Search 1
 1. Rotated Sorted Array Search - https://www.scaler.com/academy/mentee-dashboard/class/30364/assignment/problems/203/?navref=cl_pb_nv_tb
 2. Sorted Insert Position - https://www.scaler.com/academy/mentee-dashboard/class/30364/assignment/problems/204/?navref=cl_pb_nv_tb
 3. Find a peak element - https://www.scaler.com/academy/mentee-dashboard/class/30364/assignment/problems/4132/?navref=cl_pb_nv_tb
@@ -12,7 +11,7 @@ Binary Search 1
 8. Find minimum in Rotated Sorted Array with duplicate elements - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/?envType=list&envId=raau48es IMPORTANT
 9. Single Element in a Sorted Array - https://leetcode.com/problems/single-element-in-a-sorted-array/description/
 
-Binary Search 2
+## Binary Search 2
 1. Square root of Integer - https://www.scaler.com/academy/mentee-dashboard/class/30365/assignment/problems/200/?navref=cl_pb_nv_tb
 2. Square root of N upto 3 decimal places
 3. Aggressive cows via linear search
@@ -25,7 +24,7 @@ Binary Search 2
 
 
 
-Notes
+## Notes
 1. Finding GCD or HCF - https://www.scaler.com/academy/mentee-dashboard/class/28735/session
 2. Finding LCM - https://www.scaler.com/academy/mentee-dashboard/class/28735/session
 3. Javascript Exponentiation (**) - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Exponentiation

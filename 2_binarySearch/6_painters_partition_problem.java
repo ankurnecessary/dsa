@@ -71,8 +71,8 @@ Explanation 2:
 public class Solution {
 
   public int paint(int A, int B, ArrayList<Integer> C) {
-    long min = 1;
-    long max = getMaxTime(B, C);
+    long min = getMaxTime(B, C);
+    long max = getTotalTime(B, C);
     int modVal = 10000003;
 
     while (min <= max) {
@@ -119,15 +119,25 @@ public class Solution {
     return true;
   }
 
-  private long getMaxTime(int timePerUnit, ArrayList<Integer> units) {
-    long maxTime = 0;
+  private long getMaxTime(int B, ArrayList<Integer> C) {
+    int answer = B * C.get(0);
+
+    for (int i = 1; i < C.size(); i++) {
+      answer = Math.max(answer, (B * C.get(i)));
+    }
+
+    return answer;
+  }
+
+  private long getTotalTime(int timePerUnit, ArrayList<Integer> units) {
+    long totalTime = 0;
 
     for (int unit : units) {
       long currTimeTaken = (long) unit * (long) timePerUnit;
-      maxTime = currTimeTaken + maxTime;
-      // System.out.println( "maxTime: " + maxTime );
+      totalTime = currTimeTaken + totalTime;
+      // System.out.println( "totalTime: " + totalTime );
     }
 
-    return maxTime;
+    return totalTime;
   }
 }
