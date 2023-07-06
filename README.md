@@ -21,6 +21,7 @@
 4. Kth Smallest price - https://www.scaler.com/academy/mentee-dashboard/class/30365/homework/problems/872?navref=cl_tt_nv IMPORTANT
 5. Get nth root of m - https://practice.geeksforgeeks.org/problems/find-nth-root-of-m5843/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=find-nth-root-of-m
 6. Painter's partition problem - https://www.scaler.com/academy/mentee-dashboard/class/30366/assignment/problems/271?navref=cl_tt_lst_nm [SPECIAL MODULAR DIVISION]
+7. Allocate books - https://www.scaler.com/academy/mentee-dashboard/class/30366/homework/problems/270?navref=cl_tt_lst_nm
 
 
 
