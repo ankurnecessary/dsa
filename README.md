@@ -31,3 +31,4 @@
 3. Javascript Exponentiation (**) - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Exponentiation
 4. Get nth root via binary exponentiation - https://www.youtube.com/watch?v=l0YC3876qxg
 5. Java - Math.ceil(1/2) = 0 and Math.ceil(1/(double)2) = 1. Math.ceil(1/2.0) = 1 - https://stackoverflow.com/questions/1074228/is-there-any-java-function-or-util-class-which-does-rounding-this-way-func3-2
+6. No. of trailing zeroes in N! [N factorial] - https://takeuforward.org/data-structure/count-trailing-zeroes/
