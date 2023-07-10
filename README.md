@@ -23,7 +23,8 @@
 6. Painter's partition problem - https://www.scaler.com/academy/mentee-dashboard/class/30366/assignment/problems/271?navref=cl_tt_lst_nm [SPECIAL MODULAR DIVISION]
 7. Allocate books - https://www.scaler.com/academy/mentee-dashboard/class/30366/homework/problems/270?navref=cl_tt_lst_nm
 8. Stacks of coin - No Link
-9. Kth smallest element in an unsorted array - https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
+9. Kth smallest element in an unsorted array (Binary Search) - https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
+9. Kth smallest element in an unsorted array (Quick Select) - https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article , https://www.youtube.com/watch?v=BP7GCALO2v8 , https://www.geeksforgeeks.org/kth-smallest-largest-element-in-unsorted-array/
 
 
 ## Notes
